@@ -14,3 +14,4 @@ an about us page
   then add it to git
   then create a branch and link it to the remote repository
   however you might need to request access from the author of the project to have more access to the project
+
